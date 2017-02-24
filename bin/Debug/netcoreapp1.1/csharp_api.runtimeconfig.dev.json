@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/ericheitmuller/.nuget/packages"
+    ]
+  }
+}
